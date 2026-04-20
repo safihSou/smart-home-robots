@@ -1,0 +1,13 @@
+{
+  "name": "smart-home-robots",
+  "version": "1.0.0",
+  "description": "Modern website for smart home robots",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build process here'"
+  },
+  "keywords": ["robots", "smart-home", "ecommerce"],
+  "author": "",
+  "license": "MIT"
+}
